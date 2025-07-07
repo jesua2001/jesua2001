@@ -23,7 +23,7 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
 ## 🤝 Conectemos
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/jes%C3%BAs-vergara-gonz%C3%A1lez-4a5247371/))
+- 💼 [LinkedIn]([https://www.linkedin.com/in/jesús-vergara-gonzález-4a5247371/])
 - 📧 [Correo Electrónico](mailto:tuemail@example.com)
 - 🌐 [Portafolio](https://tuportafolio.com)
 
