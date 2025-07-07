@@ -20,7 +20,7 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 - [🔗 Proyecto C - Sitio de E-commerce](https://github.com/tuusuario/proyecto-c): Una tienda en línea usando React y Node.js.
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jesua2001&show_icons=true&theme=radical)
 
 ## 🤝 Conectemos
 - 💼 [LinkedIn](https://www.linkedin.com/in/jesús-vergara-gonzález-4a5247371)
