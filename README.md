@@ -15,9 +15,7 @@ Bienvenido a mi perfil de GitHub. 🚀 Soy un apasionado desarrollador de softwa
 ## 🚀 Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
-- [🔗 Proyecto A - Gestor de Tareas](https://github.com/tuusuario/proyecto-a): Una aplicación web para gestionar tareas usando Spring Boot y MySQL.
-- [🔗 Proyecto B - Predicción de Ventas](https://github.com/tuusuario/proyecto-b): Un modelo de predicción de ventas utilizando Python y Machine Learning.
-- [🔗 Proyecto C - Sitio de E-commerce](https://github.com/tuusuario/proyecto-c): Una tienda en línea usando React y Node.js.
+- [🔗 Proyecto A - Itacap](https://github.com/tuusuario/proyecto-a): Una aplicación para consultar notas los alumnos de safa y todo su historial actualmente en vigor y descargable en ios y android.
 
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jesua2001&show_icons=true&theme=radical)
