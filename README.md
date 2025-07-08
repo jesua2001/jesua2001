@@ -19,8 +19,7 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 - [🔗 Proyecto A - Itacap](https://github.com/SAFA-ItacAPP/safadevelopersMobile): Una aplicación para consultar notas los alumnos de safa y todo su historial actualmente en vigor y descargable en ios y android.
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jesua2001&show_icons=true&theme=radical)
+
 
 ## 🤝 Conectemos
 - 💼 [LinkedIn](https://www.linkedin.com/in/jesús-vergara-gonzález-4a5247371)
