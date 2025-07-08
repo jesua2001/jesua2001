@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Jesua!
 
-Bienvenido a mi perfil de GitHub. 🚀 Soy un apasionado desarrollador de software con un interés especial en **Java**, **Spring Boot**, **Backend Development** y **Data Science**.
+Bienvenido a mi perfil de GitHub. 🚀 Soy un apasionado desarrollador de software con un interés especial en **Java**, **TypeScript**, **Backend Development** y **Kotlin**.
 
 ## 🛠️ Tecnologías y Herramientas
 - Lenguajes: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
@@ -10,7 +10,6 @@ Bienvenido a mi perfil de GitHub. 🚀 Soy un apasionado desarrollador de softwa
 
 ## 🌱 Actualmente aprendiendo
 - 🌐 Desarrollo con **Microservicios** y **Cloud Computing** (AWS, Azure)
-- 📊 Ciencia de Datos y **Machine Learning**
 
 ## 🚀 Proyectos Destacados
 Aquí hay algunos proyectos en los que he trabajado recientemente:
@@ -22,7 +21,7 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 ## 🤝 Conectemos
 - 💼 [LinkedIn](https://www.linkedin.com/in/jesús-vergara-gonzález-4a5247371)
-- 📧 [Correo Electrónico](mailto:tuemail@example.com)
+- 📧 [Correo Electrónico](mailto:jesusbetico8@gmail.com)
 - 🌐 [Portafolio](https://tuportafolio.com)
 
 ## 📝 Licencia
